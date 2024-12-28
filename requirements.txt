@@ -1,2 +1,16 @@
+langchain
 streamlit
 ollama
+langchain_huggingface
+langchain_community
+io
+docx
+PyPDF2
+langdetect
+datetime
+sqlite3
+hashlib
+os
+chromadb
+
+
