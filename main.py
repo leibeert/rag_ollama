@@ -1,5 +1,5 @@
 from rag import initialize_rag
-
+import numpy as np
 # Initialize the RAG processor
 rag = initialize_rag()
 
